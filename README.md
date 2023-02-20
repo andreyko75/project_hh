@@ -14,6 +14,16 @@
 ## What is it?
 
  This is a ***training*** project from the [SkillFactory](https://skillfactory.ru/)  scholl, the purpose of which is to analyze the data on applicants provided by [HeadHunter](www.hh.ru) and build a model that would automatically determine the approximate salary level suitable for the user, based on the information that he indicated about himself.
+ 
+ **The project consists of 4 stages**
+ 
+1. Basic data structure analysis
+
+2. Data transformation
+
+3. Exploratory data analysis.
+
+4. Data cleaning
 
 ## What was used
 - The project is posted [here](https://github.com/andreyko75/project_hh)
