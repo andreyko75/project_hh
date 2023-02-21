@@ -13,7 +13,7 @@
 
 ## What is it?
 
- This is a ***training*** project from the [SkillFactory](https://skillfactory.ru/)  scholl, the purpose of which is to analyze the data on applicants provided by [HeadHunter](www.hh.ru) and build a model that would automatically determine the approximate salary level suitable for the user, based on the information that he indicated about himself.
+ This is a ***training*** project from the [SkillFactory](https://skillfactory.ru/)  scholl, the purpose of which is to analyze the data on applicants provided by [HeadHunter](https://hh.ru/) and build a model that would automatically determine the approximate salary level suitable for the user, based on the information that he indicated about himself.
  
  **The project consists of 4 stages**
  
