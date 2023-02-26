@@ -29,8 +29,8 @@
 - The project is posted [here](https://github.com/andreyko75/project_hh)
 - Uploading large files to Github is limited. Place the unpacking [dataset file](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)  in the **data** folder
 - The original [template](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
-- Main jupiter notebook  is **project_hh.ipynb**
-- Jupiter notebook is **project_hh_for_task.ipynb** contains draft and calculations for solving the tasks of the lesson does not contain detailed code comments, because it duplicates the code of the main notebook
+- Main jupiter notebook  as named **project_hh.ipynb**
+- Jupiter notebook as named **project_hh_for_task.ipynb** contains *draft* and calculations for solving the tasks of the lesson does not contain detailed code comments, because it duplicates the code of the main notebook
 - **data/ExchengeRates.csv** contains exchange rates of different currencies against the ruble for a period of time
    
 
